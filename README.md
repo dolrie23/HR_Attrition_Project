@@ -41,7 +41,8 @@ Untuk menjalankan notebook ini, ikuti langkah-langkah berikut:
 
 
 6. **Dashboard Metabase:**
-
+      
+    - Email Metabase: danielsimanjuntak2305@gmail.com dan password: root123
     - Gunakan file `metabase.db.mv.db` untuk melihat dashboard di Metabase lokal Anda.
     - Dashboard berisi insight dari data attrition berdasarkan beberapa fitur penting.
 
